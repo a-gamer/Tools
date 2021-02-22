@@ -10,5 +10,4 @@ cd Tools
 php execute.php
 
 # HASIL 
-
-![Screenshot_20210222_003855](https://user-images.githubusercontent.com/63560321/108633354-6acac980-74a6-11eb-994e-fa05457b6700.jpg)
+![Screenshot_20210222_122858](https://user-images.githubusercontent.com/63560321/108666412-9c28b100-7509-11eb-9851-9c9cbb928ce0.jpg)
